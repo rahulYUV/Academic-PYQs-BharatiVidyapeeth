@@ -1,9 +1,7 @@
 # 📚 Academic-PYQs-BharatiVidyapeeth  
 
 ## Hey folks! 👋 Hope you're doing great! 
-<p align="center">
-  <img src="Assests/img2.jpg" alt="Image 2" width="80%">
-</p>
+
 
   
 
